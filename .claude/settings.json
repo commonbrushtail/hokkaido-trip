@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:maps.app.goo.gl)",
+      "WebFetch(domain:www.google.com)",
+      "WebSearch",
+      "WebFetch(domain:www.udon-goemon.com)",
+      "WebFetch(domain:tabelog.com)",
+      "WebFetch(domain:ringo-club.jp)",
+      "WebFetch(domain:www.yamarokuzushi.com)",
+      "WebFetch(domain:hitosara.com)",
+      "WebFetch(domain:r.gnavi.co.jp)",
+      "WebFetch(domain:himawari-hokuryu.com)",
+      "WebFetch(domain:tabikimi.com)"
+    ]
+  }
+}
